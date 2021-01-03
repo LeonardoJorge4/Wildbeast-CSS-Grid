@@ -1,4 +1,4 @@
-## Wildbeast-CSS-Grid
+## Projeto Wildbeast, utlizando CSS Grid para a construção do site.
 
 # IMAGENS DO SITE NO DESKTOP
 
