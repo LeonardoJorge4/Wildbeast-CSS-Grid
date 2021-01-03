@@ -7,6 +7,9 @@
 
 # MOBILE
 
-![wildbeast-mob1](https://user-images.githubusercontent.com/69438854/103490604-c3151180-4dfb-11eb-853d-c4cae7c98aeb.png)
-![wildbeast-mob2](https://user-images.githubusercontent.com/69438854/103490606-c3151180-4dfb-11eb-823c-fd07bc6408b6.png)
-![wildbeast-mob3](https://user-images.githubusercontent.com/69438854/103490599-bee8f400-4dfb-11eb-833e-702e4d887939.png)
+![wildbeast-mob1](https://user-images.githubusercontent.com/69438854/103490834-54d14e80-4dfd-11eb-823e-f8ce225d5f19.png)
+![wildbeast-mob2](https://user-images.githubusercontent.com/69438854/103490835-5569e500-4dfd-11eb-886b-bd9fde9e57e1.png)
+![wildbeast-mob3](https://user-images.githubusercontent.com/69438854/103490836-569b1200-4dfd-11eb-8d52-19047b38ffb7.png)
+
+
+
