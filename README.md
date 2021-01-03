@@ -1,4 +1,4 @@
-# Projeto Wildbeast, utlizando CSS Grid para a construção do site.
+# Projeto Wildbeast, utlizando CSS Grid para a construção do site. O site é totalmente responsivo para tablets e smartphones.
 
 ## IMAGENS DO SITE NO DESKTOP
 
